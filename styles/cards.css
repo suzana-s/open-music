@@ -1,0 +1,44 @@
+
+.cards {
+    margin-top: 60px;
+}
+
+.cards ul li {
+    list-style: none;
+}
+
+.cards ul li img {
+    height: 113px;
+    width: 308px;
+}
+
+.cards ul li div {
+    padding: 10px 16px;
+    background-color: var(--color-grey-8);
+}
+
+.cards ul li div span {
+    font-weight: 500;
+    font-size: 12px;
+    color: var(--color-grey-2);
+    margin-right: 20px;
+}
+
+.cards ul li div h2 {
+    margin: 20px 0px;
+}
+
+.cards ul li div div {
+    padding: 0;
+}
+
+.cards ul li div div button {
+    border-radius: var(--radius-1);
+    padding: 0px 8px;
+    border: none;
+}
+
+.cards h2 {
+    margin-bottom: 60px;
+}
+

@@ -1,0 +1,13 @@
+.button {
+    padding: 0px 8px;
+    border-radius: var(--radius-1);
+    background-color: var(--color-grey-8);
+    border: none;
+    cursor: pointer;
+    color: var(--color-grey-1);
+}
+
+.button:focus {
+    background-color: var(--color-grey-1);
+    color: var(--color-grey-8);
+}

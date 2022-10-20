@@ -1,0 +1,40 @@
+header {
+    margin-top: 47px;
+}
+
+
+header button {
+    width: 36px;
+    height: 35px;
+    border-radius: var(--radius-1);
+    border: none;
+    background-color: transparent;
+    background-repeat: no-repeat;
+    background-position: center;
+    cursor: pointer;
+}
+
+.genres {
+    margin-top: 62px;
+}
+
+.genres button {
+    height: 32px;
+    margin: 15px;
+}
+
+.price {
+    margin-top: 60px;
+}
+
+.price input {
+    width: 641px;
+    height: 8px;
+    margin-top: 24px;
+    cursor: pointer;
+}
+
+.icon-moon {
+    background-color: var(--color-grey-8);
+}
+

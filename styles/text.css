@@ -1,0 +1,19 @@
+.text2 {
+    font-size: var(--font-2);
+}
+
+.weigth600 {
+    font-weight: 600;
+}
+
+.text1 {
+    font-size: var(--font-1);
+}
+
+.weigth500 {
+    font-weight: 500;
+}
+
+.colorText {
+    color: var(--color-grey-2);
+}
